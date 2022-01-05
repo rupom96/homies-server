@@ -3,9 +3,13 @@
 This a full stack project about a website layout of a real state business. This project has been made using HTML, React.js,React route, CSS, Bootstrap, firebase and mongodb. 
  
 Livesite link: https://homies-9e0d7.web.app/
+
 (N.B: log in with 'admin@admin.com' with password: '123456' to access admin features)
+
 Live backend server link: https://limitless-shore-01631.herokuapp.com/
+
 Client-side Code link: https://github.com/rupom96/homies
+
 Backend Code link: https://github.com/rupom96/homies-server
 
 ## Features and Functionality:
